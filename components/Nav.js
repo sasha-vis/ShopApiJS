@@ -13,7 +13,7 @@ class Nav {
             <div class="nav_left">
                 <div class="logo">
                     Ladies
-                    <img src="/images/diamond.png" alt="Logo">
+                    <img src="./../images/diamond.png" alt="Logo">
                 </div>
 
             </div>
