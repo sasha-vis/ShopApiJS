@@ -19,9 +19,11 @@ class Nav {
             </div>
 
             <div class="nav_right">
+            
                 <div class="search_bin">
 
                 </div>
+                
             </div>
         
         </div>
